@@ -33,6 +33,8 @@
 		"breadcrumb.foreground": "#e0e0e0",
 		"breadcrumb.focusForeground": "#FFFFFF",
 		"breadcrumb.activeSelectionForeground": "#FFFFFF",
+		"terminal.background": "#000000",
+		"terminal.foreground":"#ffffff",
 	},
 	"semanticHighlighting": true
 }
