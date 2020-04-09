@@ -35,6 +35,10 @@
 		"breadcrumb.activeSelectionForeground": "#FFFFFF",
 		"terminal.background": "#000000",
 		"terminal.foreground":"#ffffff",
+		"terminal.selectionBackground": "#ffffff40",
+		"scrollbarSlider.activeBackground": "#FFFFFF85",
+		"scrollbarSlider.background": "#FFFFFF66",
+		"scrollbarSlider.hoverBackground": "#FFFFFF99",
 	},
 	"semanticHighlighting": true
 }
