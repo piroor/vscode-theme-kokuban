@@ -1,0 +1,20 @@
+{
+	"name": "theme-kokuban",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"categories": [ "Themes" ],
+	"version": "0.0.1",
+	"publisher": "vscode",
+	"license": "MIT",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"id": "Kokuban Light",
+				"label": "Kokuban Light",
+				"uiTheme": "vs",
+				"path": "./themes/light_plus.json"
+			}
+		]
+	}
+}
