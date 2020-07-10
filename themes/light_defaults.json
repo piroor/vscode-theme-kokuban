@@ -36,7 +36,7 @@
 		"input.foreground": "#000000",
 		"input.placeholderForeground": "#5c5c5c",
 		"list.focusBackground": "#6F6F6F",
-		"list.focusForeground": "#5c5c5c",
+		"list.focusForeground": "#ffffff",
 		"list.hoverBackground": "#E8E8E8",
 		"list.hoverForeground": "#5c5c5c",
 		"list.inactiveFocusBackground": "#6F6F6F",
