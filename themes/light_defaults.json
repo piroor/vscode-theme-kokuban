@@ -44,6 +44,7 @@
 		"list.inactiveSelectionForeground": "#5c5c5c",
 		"menu.foreground": "#000000",
 		"minimap.background": "#004545",
+		"notifications.foreground":"#5c5c5c",
 		"panelTitle.activeForeground": "#FFFFFF",
 		"scrollbarSlider.activeBackground": "#FFFFFF85",
 		"scrollbarSlider.background": "#FFFFFF66",
