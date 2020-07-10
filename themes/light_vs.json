@@ -142,7 +142,7 @@
 		{
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#529ef0"
+				"foreground": "#57a8ff"
 			}
 		},
 		{
@@ -151,7 +151,7 @@
 				"punctuation.definition.list.begin.markdown"
 			],
 			"settings": {
-				"foreground": "#529ef0"
+				"foreground": "#57a8ff"
 			}
 		},
 		{
@@ -191,7 +191,7 @@
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#529ef0"
+				"foreground": "#57a8ff"
 			}
 		},
 		{
@@ -284,7 +284,7 @@
 				"support.constant.color"
 			],
 			"settings": {
-				"foreground": "#529ef0"
+				"foreground": "#57a8ff"
 			}
 		},
 		{
@@ -305,7 +305,7 @@
 				"support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#529ef0"
+				"foreground": "#57a8ff"
 			}
 		},
 		{
@@ -361,7 +361,7 @@
 		{
 			"scope": "support.function.git-rebase",
 			"settings": {
-				"foreground": "#529ef0"
+				"foreground": "#57a8ff"
 			}
 		},
 		{
