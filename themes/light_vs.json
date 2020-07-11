@@ -27,7 +27,7 @@
 		{
 			"scope": "meta.diff.header",
 			"settings": {
-				"foreground": "#9f9fff"
+				"foreground": "#adadff"
 			}
 		},
 		{
@@ -39,7 +39,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#9f9fff"
+				"foreground": "#adadff"
 			}
 		},
 		{
@@ -111,7 +111,7 @@
 			"scope": "markup.bold",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#9f9fff"
+				"foreground": "#adadff"
 			}
 		},
 		{
@@ -142,7 +142,7 @@
 		{
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#57a8ff"
+				"foreground": "#68bbff"
 			}
 		},
 		{
@@ -151,7 +151,7 @@
 				"punctuation.definition.list.begin.markdown"
 			],
 			"settings": {
-				"foreground": "#57a8ff"
+				"foreground": "#68bbff"
 			}
 		},
 		{
@@ -173,7 +173,7 @@
 				"entity.name.function.preprocessor"
 			],
 			"settings": {
-				"foreground": "#9f9fff"
+				"foreground": "#adadff"
 			}
 		},
 		{
@@ -191,19 +191,19 @@
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#57a8ff"
+				"foreground": "#68bbff"
 			}
 		},
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#9f9fff"
+				"foreground": "#adadff"
 			}
 		},
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#9f9fff"
+				"foreground": "#adadff"
 			}
 		},
 		{
@@ -212,7 +212,7 @@
 				"keyword.operator.noexcept"
 			],
 			"settings": {
-				"foreground": "#9f9fff"
+				"foreground": "#adadff"
 			}
 		},
 		{
@@ -244,7 +244,7 @@
 				"string.quoted.double.handlebars"
 			],
 			"settings": {
-				"foreground": "#9f9fff"
+				"foreground": "#adadff"
 			}
 		},
 		{
@@ -261,7 +261,7 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
-				"foreground": "#9f9fff"
+				"foreground": "#adadff"
 			}
 		},
 		{
@@ -284,7 +284,7 @@
 				"support.constant.color"
 			],
 			"settings": {
-				"foreground": "#57a8ff"
+				"foreground": "#68bbff"
 			}
 		},
 		{
@@ -305,19 +305,19 @@
 				"support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#57a8ff"
+				"foreground": "#68bbff"
 			}
 		},
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#9f9fff"
+				"foreground": "#adadff"
 			}
 		},
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#9f9fff"
+				"foreground": "#adadff"
 			}
 		},
 		{
@@ -340,7 +340,7 @@
 				"keyword.operator.wordlike"
 			],
 			"settings": {
-				"foreground": "#9f9fff"
+				"foreground": "#adadff"
 			}
 		},
 		{
@@ -361,7 +361,7 @@
 		{
 			"scope": "support.function.git-rebase",
 			"settings": {
-				"foreground": "#57a8ff"
+				"foreground": "#68bbff"
 			}
 		},
 		{
@@ -385,7 +385,7 @@
 			"name": "this.self",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#9f9fff"
+				"foreground": "#adadff"
 			}
 		}
 	]
